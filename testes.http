@@ -51,7 +51,7 @@ Content-Type: application/json
 
 
 ### 7 - Criar com duracao invalida         -> espera 400
-DELETE {{url}}/treinos/2
+
 
 POST {{url}}/treinos
 Content-Type: application/json
@@ -72,7 +72,7 @@ Content-Type: application/json
 }
 
 
-### 9 - Alterar um treino que nao existe   -> espera 404
+### 9 - Alterar um treino que nao exiDELETE {{url}}/treinos/2ste   -> espera 404
 PUT {{url}}/treinos/99999
 Content-Type: application/json
 
@@ -83,7 +83,7 @@ Content-Type: application/json
 
 
 ### 10 - Apagar o treino 2                 -> espera 204 (sem corpo)
-DELETE {{url}}/treinos/2
+DELETE {{url}}/treinos/3
 
 
 ### 11 - Apagar um treino que nao existe   -> espera 404
