@@ -51,6 +51,8 @@ Content-Type: application/json
 
 
 ### 7 - Criar com duracao invalida         -> espera 400
+DELETE {{url}}/treinos/2
+
 POST {{url}}/treinos
 Content-Type: application/json
 
