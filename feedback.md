@@ -1,3 +1,5 @@
-# Feedback - Aula 02
+Caua, a aula 2 ficou certa, o CRUD completo rodando em array. Mas a aula 3 e a aula 4 não têm entrega, seu servidor.js continua com os dados em array, nunca migrou pro banco nem pras camadas. Essas duas ficam zeradas.
 
-Caua, até agora não vi nenhuma alteração no seu repositório, está tudo igual ao template inicial. A aula 2 cobra as 5 rotas básicas e nenhuma delas foi escrita ainda. As notas vão sair até sexta-feira, esse prazo vale pra você também. Se não aparecer nada até lá, a nota dessa etapa fica zerada.
+A recuperação do primeiro momento está na lista de revisão. Estuda a lista de revisão que você recupera essas duas.
+
+Os outros 2 pontos desse primeiro momento são a arguição, na próxima aula, no laboratório.
